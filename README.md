@@ -2,19 +2,6 @@
 
 This project is a demonstration of using shaders with Three.js in a React frontend, without relying on react-three-fiber. It showcases the power of custom shaders and how they can be integrated into a Three.js application.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Custom Shaders](#custom-shaders)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Getting Started
-
 ### Prerequisites
 
 To run this project locally, you need to have the following installed on your machine:
