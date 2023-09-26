@@ -1,5 +1,7 @@
 # Shaders with Three.js Project
 
+![](https://github.com/ArpanMahanty01/shaders/blob/dev/shader.gif)
+
 This project is a demonstration of using shaders with Three.js in a React frontend, without relying on react-three-fiber. It showcases the power of custom shaders and how they can be integrated into a Three.js application.
 
 ### Prerequisites
